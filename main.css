@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #2b2b2b;
+}
+
+.aw-name{
+  font-weight: bold;
+}
+
+header {
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+}
+
+header .nav-link {
+  color: #555;
+}
+
+header .nav-link.active {
+  color: #007bff;
+  font-weight: bold;
+}
+
+section {
+  border-radius: 8px;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 30px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-left: 200px;
+} 
+
+footer {
+  background-color: #f9f9f9;
+  color: #666;
+}
+.aw-nav{
+ justify-content: space-around;
+}
+
